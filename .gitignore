@@ -1,0 +1,6 @@
+# Local credentials and environment-specific settings
+codebase/.env
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
